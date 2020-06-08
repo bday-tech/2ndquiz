@@ -13,32 +13,32 @@ var questions = [
           answer: "a"
      },
      {
-         promt: "Wo stellt man den Titel der Website ein?\n(a) Heading\n\ (b) Head\n(c) Body",
+         prompt:  "Wo stellt man den Titel der Website ein?\n(a) Heading\n\ (b) Head\n(c) Body",
          answer: "b"
      },
      {
-        promt: "Was ist CSS ausgeschrieben?\n(a) Code Style Sheets\n\ (b) Cascade Style Source\n(c) Cascade Style Sheets",
-        answer: "c"
+         prompt:  "Was ist CSS ausgeschrieben?\n(a) Code Style Sheets\n\ (b) Cascade Style Source\n(c) Cascade Style Sheets",
+         answer: "c"
     },
     {
-        promt: "Welchen Zweck hat <canvas>?\n(a) erzeugt Leinwand\n\ (b) erstellt Datenbank\n(c) ersetzt Flash Player",
-        answer: ""
+         prompt:  "Welchen Zweck hat <canvas>?\n(a) erzeugt Leinwand\n\ (b) erstellt Datenbank\n(c) ersetzt Flash Player",
+         answer: ""
     },
     {
-        promt: "Werden Tabellen zur Formatierung genutzt?\n(a) Ja, aber nur bei veralteten Websites\n\ (b)Ja, generell\n(c) Nein",
-        answer: "a"
+         prompt:  "Werden Tabellen zur Formatierung genutzt?\n(a) Ja, aber nur bei veralteten Websites\n\ (b)Ja, generell\n(c) Nein",
+         answer: "a"
     },
     {
-        promt: "An welche Programmiersprache ist JavaScripts entfernt angelehnt?\n(a) Java\n\ (b) C++\n(c) Python",
-        answer: "b"
+         prompt:  "An welche Programmiersprache ist JavaScripts entfernt angelehnt?\n(a) Java\n\ (b) C++\n(c) Python",
+         answer: "b"
     },
     {
-        promt: "Was ist Reverse Engineering?\n(a) Ein Fachbereich in der Website Entwicklung\n\ (b) Ein Fachbereich der Datenanalyse\n(c) Ein Fachbereich der Websitanalyse",
-        answer: "b"
+         prompt:  "Was ist Reverse Engineering?\n(a) Ein Fachbereich in der Website Entwicklung\n\ (b) Ein Fachbereich der Datenanalyse\n(c) Ein Fachbereich der Websitanalyse",
+         answer: "b"
     },
     {
-        promt: "Was ist HTML ausgeschrieben?\n(a) HyperText Makeup Language\n\ (b) HyperTool Makeup Language\n(c) HyperText Markup Language",
-        answer: "c"
+         prompt:  "Was ist HTML ausgeschrieben?\n(a) HyperText Makeup Language\n\ (b) HyperTool Makeup Language\n(c) HyperText Markup Language",
+         answer: "c"
     }
 ];
 var score = 0;
