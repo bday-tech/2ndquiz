@@ -22,7 +22,7 @@ var questions = [
     },
     {
          prompt:  "Welchen Zweck hat <canvas>?\n(a) erzeugt Leinwand\n\ (b) erstellt Datenbank\n(c) ersetzt Flash Player",
-         answer: ""
+         answer: "a"
     },
     {
          prompt:  "Werden Tabellen zur Formatierung genutzt?\n(a) Ja, aber nur bei veralteten Websites\n\ (b)Ja, generell\n(c) Nein",
